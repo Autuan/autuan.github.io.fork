@@ -3,11 +3,11 @@ title: Autuan's Blog
 SEOTitle: 晚成的博客 |  Autuan's Blog | Autuan | autuan
 header-img: img/post-bg-desk.jpg
 email: autuan.yu@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 晚成的博客, autuan, 晚成, Java8, JS, Java"
+description: "休息,再出发"
+keyword: "晚成的博客, autuan, 晚成, Java8, JS, Java"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/Autuan/autuan.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
