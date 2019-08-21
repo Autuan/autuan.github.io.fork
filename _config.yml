@@ -57,17 +57,17 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: autuan
+#disqus_username: autuan
 
 # Gitalk
-#gitalk:
-  #enable: true    #是否开启Gitalk评论
-  #clientID: f2c84e7629bb1446c1a4                            #生成的clientID
- # clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  #repo: qiubaiying.github.io    #仓库名称
-  #owner: qiubaiying    #github用户名
-  #admin: qiubaiying
-  #distractionFreeMode: true #是否启用类似FB的阴影遮罩
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 7298cb2b3e8ccd607ad7                            #生成的clientID
+  clientSecret: 31f4b3bc89a230aba8bb866a5e96383344541b7c    #生成的clientSecret
+  repo: autuan.github.io    #仓库名称
+  owner: autuan    #github用户名
+  admin: autuan
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
