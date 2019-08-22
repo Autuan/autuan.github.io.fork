@@ -11,7 +11,7 @@ layout: default
     header.intro-header{
         position: relative;
         {% if page.header-img contains 'http' %}
-        background-image: url({{ page.header-img }}');
+        background-image: url('{{ page.header-img }}');
         {% else %}
         background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
         {% endif %}
