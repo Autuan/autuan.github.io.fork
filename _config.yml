@@ -78,7 +78,7 @@ ba_track_id: 3c542d6816ebe64fccb68c23706c8fbc
 
 # Google Analytics
 ga_track_id: 'G-SK5QP3DSKT'            # Format: UA-xxxxxx-xx
-ga_domain: autuan.cn              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: autuan.top              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
