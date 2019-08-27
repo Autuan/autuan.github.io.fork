@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Postman简单的介绍与其他类似工具对比_施工中
+title:      Postman简单的介绍与使用
 subtitle:   总要有个东西发发网络请求吧?
 date:       2019-8-23
 author:     Autuan.Yu
