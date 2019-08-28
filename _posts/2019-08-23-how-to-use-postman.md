@@ -7,7 +7,6 @@ author:     Autuan.Yu
 header-img: https://pixabay.com/zh/photos/%E9%82%AE%E6%94%BF%E4%BF%A1-%E7%95%99%E8%A8%80%E4%BF%A1%E7%AE%B1-%E4%BF%A1%E7%9B%92-%E4%BF%A1%E4%BB%B6-2828146/
 catalog: true
 tags:
-    - 博客搭建
     - Postman
 ---
 
