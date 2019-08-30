@@ -94,6 +94,7 @@ Good job!! 动态变量的用法就是这么简单,下面是Postman可以使用�
 |$randomLongitude|一个随机的经度|"-72.7924"|
 
 ### 图片
+
 |变量名|描述|示例值|
 |----|----|----|
 |$randomImage|一张随机图片|"http://lorempixel.com/640/480/sports"|
@@ -115,6 +116,7 @@ Good job!! 动态变量的用法就是这么简单,下面是Postman可以使用�
 |$randomImageDataUri|一张随机图片数据(Base64数据)|内容过长,略|
 
 ### 金融
+
 |变量名|描述|示例值|
 |----|----|----|
 |$randomBankAccount|一个随机的8位数账户|"64794792" |
@@ -129,6 +131,7 @@ Good job!! 动态变量的用法就是这么简单,下面是Postman可以使用�
 |$randomBitcoin|一个随机的比特币地址|"3XGGZANI2SOJ9ONA3G7NO42IJXEH6" |
 
 ### 商务
+
 |变量名|描述|示例值|
 |----|----|----|
 |$randomCompanyName|一个随机的公司名称|"Leffler, Franecki and Brekke" |
@@ -139,6 +142,7 @@ Good job!! 动态变量的用法就是这么简单,下面是Postman可以使用�
 |$randomBsNoun|一句随机的商业名词|"markets " |
 
 ### 短语
+
 |变量名|描述|示例值|
 |----|----|----|
 |$randomCatchPhrase|一句随机短语|"Streamlined didactic software" |
@@ -147,6 +151,7 @@ Good job!! 动态变量的用法就是这么简单,下面是Postman可以使用�
 |$randomCatchPhraseNoun|随机名词|"monitoring" |
 
 ### 数据库
+
 |变量名|描述|示例值|
 |----|----|----|
 |$randomDatabaseColumn|一个随机的数据库列名|"updatedAt" |
@@ -155,6 +160,7 @@ Good job!! 动态变量的用法就是这么简单,下面是Postman可以使用�
 |$randomDatabaseEngine|一个随机的数据库引擎|"InnoDB" |
 
 ### 日期
+
 |变量名|描述|示例值|
 |----|----|----|
 |$randomDateFuture|一个随机的未来日期时间|"Mon Dec 02 2019 08:13:49 GMT 0800 (中国标准时间)" |
@@ -164,6 +170,7 @@ Good job!! 动态变量的用法就是这么简单,下面是Postman可以使用�
 |$randomMonth|一个随机的月份|"May" |
 
 ### 域名/电子邮箱及用户名
+
 |变量名|描述|示例值|
 |----|----|----|
 |$randomDomainName|一个随机的域名|"autuan.top" |
@@ -175,6 +182,7 @@ Good job!! 动态变量的用法就是这么简单,下面是Postman可以使用�
 |$randomUrl|一个随机的URL|"http://autuan.top" |
 
 ### 文件及目录
+
 |变量名|描述|示例值|
 |----|----|----|
 |$randomFileName|一个随机的文件名|"autuan_is_cool.ggb" |
@@ -186,6 +194,7 @@ Good job!! 动态变量的用法就是这么简单,下面是Postman可以使用�
 |$randomMimeType|一个随机MIME类型|"application/vnd.sss-cod" |
 
 ### 电商
+
 |变量名|描述|示例值|
 |----|----|----|
 |$randomPrice|一个随机的价格|"29.00" |
@@ -196,6 +205,7 @@ Good job!! 动态变量的用法就是这么简单,下面是Postman可以使用�
 |$randomDepartment|一个随机的产品分类|"Shoes" |
 
 ### 语法
+
 |变量名|描述|示例值|
 |----|----|----|
 |$randomNoun|一个随机名词|"bus" |
@@ -209,6 +219,7 @@ Good job!! 动态变量的用法就是这么简单,下面是Postman可以使用�
 |$randomFileType|一个随机的文件类型|"Inc" |
 
 ### 占位文字
+
 |变量名|描述|示例值|
 |----|----|----|
 |$randomLoremWord|一个占位词|"autem" |
