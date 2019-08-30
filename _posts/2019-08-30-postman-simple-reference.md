@@ -228,7 +228,6 @@ Good job!! 动态变量的用法就是这么简单,下面是Postman可以使用�
 |$randomLoremSentences|一串占位语|"Accusantium qui et consectetur adipisci. Voluptatum consequuntur non voluptatibus. Aut quia laborum consequatur." |
 |$randomLoremParagraph|一段占位语|"Iste voluptatibus corporis quam nobis amet. Culpa quo et voluptas dolor saepe optio. Maxime laudantium cupiditate incidunt. Suscipit accusamus molestiae quia qui nisi et." |
 |$randomLoremParagraphs|几段占位语|内容过长,略 |
-
 |$randomLoremText|随机数量的占位文本|"Maiores harum sed ut ut omnis aut quibusdam est." |
 |$randomLoremSlug|一个随机值|"sunt-cupiditate-et" |
 |$randomLoremLines|随机行数的占位内容|"Accusamus ab aut reprehenderit cupiditate inventore vitae." |
