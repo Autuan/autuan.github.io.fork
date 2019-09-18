@@ -60,4 +60,15 @@
 
       gtag('config', 'G-SK5QP3DSKT');
     </script>
+
+<input type="hidden" id="baseurl" value="{{ site.baseurl }}">
+<script async src="{{ site.baseurl }}/js/waifu-tips.js"></script>
+<script src="{{ site.baseurl }}/js/live2d.js"></script>
+<script type="text/javascript">
+    loadlive2d("live2d", $('#baseurl').val() + "/js/model.json");
+</script>
+    <div class="waifu">
+        <div class="waifu-tips"></div>
+        <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
+    </div>
 </head>
