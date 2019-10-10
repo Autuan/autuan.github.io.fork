@@ -86,6 +86,6 @@ bug修复分支 : hotfix_1134
 - 如果有文档需要更新,请一定要更新文档
 
 ## 参考文档
-[1] 大圣代.Git Flow是什么？你out了吧. https://www.jianshu.com/p/1d8da713316e .
-[2] 晚成.快速部署项目:alibaba cloud toolkit简单使用说明. http://autuan.top/2019/09/20/cloudtoolkit/ .
-[3] [加] Emma Jane Hogbin Westby．Git团队协作[M]．北京：人民邮电出版社
+[1] 大圣代.Git Flow是什么？你out了吧. https://www.jianshu.com/p/1d8da713316e .  
+[2] 晚成.快速部署项目:alibaba cloud toolkit简单使用说明. http://autuan.top/2019/09/20/cloudtoolkit/ .  
+[3] [加] Emma Jane Hogbin Westby．Git团队协作[M]．北京：人民邮电出版社   
