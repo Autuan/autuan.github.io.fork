@@ -1,14 +1,13 @@
 ---
 layout:     post
-title:      Files: 文件操作的简化版本,你知道吗?
+title:      Files_文件操作的简化版本,你知道吗?
 subtitle:   从Java7开始的,可以大大方便我们的文件操作方法
 date:       2019-10-24
 author:     Autuan.Yu
 header-img:
 catalog: true
 tags:
-    - Git
-    - 版本控制
+    - Java
 ---
 
 > 软件供应商在努力尝试让他们的软件更'易于操作'…迄今为止，他们最好的办法就是翻出所有的老手册，然后在封面盖上'易于操作'这几个字
