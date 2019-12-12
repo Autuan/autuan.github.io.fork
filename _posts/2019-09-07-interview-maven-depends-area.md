@@ -7,7 +7,7 @@ author:     Autuan.Yu
 header-img: img/post-bg-2015.jpg    
 catalog: true                      
 tags:                               
-    - Maven
+    - maven
     - 面试问题
 ---
 
