@@ -2,7 +2,7 @@
 layout:     post
 title:      layer.open缓存导致页面数据不更新
 subtitle:   一个容易让人忽略的地方
-date:       2019-10-10
+date:       2020-01-10
 author:     Autuan.Yu
 header-img:
 catalog: true
