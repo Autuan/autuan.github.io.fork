@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      java.lang.StackOverflowError: null  错误
+title:      错误java.lang.StackOverflowError: null
 subtitle:   希望能帮到什么人
 date:       2020-05-27
 author:     Autuan.Yu
