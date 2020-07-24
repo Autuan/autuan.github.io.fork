@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      [,]找不到符号
+title:      ,找不到符号
 subtitle:   
 date:       2020-07-09
 author:     Autuan.Yu
