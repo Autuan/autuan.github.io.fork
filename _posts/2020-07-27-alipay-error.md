@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      IOException_algid parse error, not a sequence
+title:      IOException_algid parse error not a sequence
 subtitle:   js调取字符串变量
 date:       2020-07-27
 author:     Autuan.Yu
