@@ -4,7 +4,7 @@ title:      GitHub个人主页设置简介
 subtitle:   年轻,就是要不一样!
 date:       2020-08-20
 author:     Autuan.Yu
-header-img: https://sm.ms/image/B6asWJgHtTjVoXR
+header-img: https://i.loli.net/2020/08/20/B6asWJgHtTjVoXR.png
 catalog: true
 tags:
     - Git
