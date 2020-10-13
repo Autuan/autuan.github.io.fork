@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      使用注解来简单实现aop功能
-subtitle:   初识注解
-date:       2020-09-30
-author:     Autuan.Yu
+layout:     post  
+title:      使用注解来简单实现aop功能  
+subtitle:   初识注解  
+date:       2020-09-30 
+author:     Autuan.Yu 
 header-img: 
 catalog: true
 tags:
